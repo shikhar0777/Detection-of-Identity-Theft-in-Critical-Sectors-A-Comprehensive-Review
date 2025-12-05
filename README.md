@@ -1,5 +1,8 @@
 # Detection-of-Identity-Theft-in-Critical-Sectors-A-Comprehensive-Review
-PUBLISHED PAPER Google identity theft research funding 2025 WITH WV GOVERNMENT PROJECT 
+This paper was published in 2025 at the Springer CSCI Conference in Las Vegas //
+
+
+Google identity theft research funding 2025 WITH WV GOVERNMENT PROJECT 
 
 Purpose: The paper reviews existing methods for detecting identity theft across sectors like finance, government, and healthcare.
 
