@@ -1,5 +1,5 @@
 # Detection-of-Identity-Theft-in-Critical-Sectors-A-Comprehensive-Review
-This paper was published on 12th Annual Conf. on Computational Science & Computational Intelligence (CSCI'25) // Springer Nature Paper
+This paper was published on 12th Annual Conf. on Computational Science & Computational Intelligence (CSCI'25) Las Vegas 3rd dec to 5th // Springer Nature Paper
 
 
 
