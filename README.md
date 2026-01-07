@@ -1,23 +1,39 @@
-# Detection-of-Identity-Theft-in-Critical-Sectors-A-Comprehensive-Review
-This paper was published on 12th Annual Conf. on Computational Science & Computational Intelligence (CSCI'25) Las Vegas 3rd dec to 5th dec // Springer Nature Paper
+Detection of Identity Theft in Critical Sectors: A Comprehensive Review
 
+Publication: 12th Annual Conference on Computational Science & Computational Intelligence (CSCI 2025)
+Location & Date: Las Vegas, USA | December 3–5, 2025
+Publisher: Springer Nature
 
+Overview
 
+This paper reviews identity theft detection techniques used in critical sectors such as finance, government, and healthcare. It analyzes how different machine learning approaches perform in detecting fraudulent and malicious identity-related activities.
 
-The paper reviews existing methods for detecting identity theft across sectors like finance, government, and healthcare focusing on critical sector
+Methods
 
-Methods: Analyzed peer-reviewed studies, comparing traditional machine learning methods, deep learning, and Graph Neural Networks (GNNs). Evaluated their performance in accuracy, sensitivity, precision and other matrix.
+Peer-reviewed studies were analyzed and compared across:
 
-Key Findings:
+Traditional machine learning models (SVM, Random Forest)
 
-Graph Neural Networks performed best overall for real-time and accurate detection.
+Deep learning methods
 
-Support Vector Machines and Random Forests had high precision, reducing false alarms.
+Graph Neural Networks (GNNs)
 
-Deep learning models detect complex patterns but can be slower and resource-intensive.
+Models were evaluated using accuracy, precision, sensitivity, and related performance metrics.
 
-Most research focuses on large organizations, leaving gaps in protecting individuals and small-scale attacks.
+Key Findings
 
-Contribution: The paper identifies research gaps and recommends adaptive, sector-specific detection methods that include protection for everyday users, not just big institutions.
+Graph Neural Networks perform best for accurate and real-time detection.
 
-Takeaway: Effective identity theft detection requires intelligent, context-aware models that can detect suspicious behavior across time and connections, with GNNs being a promising approach.
+SVM and Random Forest models achieve high precision with fewer false alarms.
+
+Deep learning models capture complex patterns but are often slower and resource-intensive.
+
+Most research focuses on large organizations, with limited attention to individual users and small-scale attacks.
+
+Contribution
+
+The paper identifies research gaps and recommends adaptive, sector-specific identity theft detection methods that also protect everyday users.
+
+Takeaway
+
+Effective identity theft detection requires context-aware models that analyze behavior over time and relationships between entities. GNNs are a promising approach for future systems.
