@@ -4,7 +4,7 @@ This paper was published on 12th Annual Conf. on Computational Science & Computa
 
 
 
-PurThe paper reviews existing methods for detecting identity theft across sectors like finance, government, and healthcare focusing on critical sector
+The paper reviews existing methods for detecting identity theft across sectors like finance, government, and healthcare focusing on critical sector
 
 Methods: Analyzed peer-reviewed studies, comparing traditional machine learning methods, deep learning, and Graph Neural Networks (GNNs). Evaluated their performance in accuracy, sensitivity, precision and other matrix.
 
