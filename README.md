@@ -28,7 +28,7 @@ The paper identifies research gaps and recommends adaptive, sector-specific iden
 
 Takeaway
 
-Effective identity theft detection requires context-aware models that analyze behavior over time and relationships between entities. GNNs are a promising approach for future systems.
+Effective identity theft detection requires context aware models that analyze behavior over time and relationships between entities. GNNs are a promising approach for future systems.
 
 Shikhar Pandey(Smartyyyyyyy)
 
