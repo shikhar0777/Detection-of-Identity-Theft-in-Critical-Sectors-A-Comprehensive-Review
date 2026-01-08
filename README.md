@@ -2,7 +2,7 @@ Detection of Identity Theft in Critical Sectors
 
 Publication: 12th Annual Conference on Computational Science & Computational Intelligence (CSCI 2025)
 Location & Date: Las Vegas, USA | December 3–5, 2025
-Publisher: Springer Nature
+Publisher: Springer Nature.
 
 Overview.
 
